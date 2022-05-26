@@ -1,2 +1,3 @@
+## Description
 
-MY first PR
+This project provides a simple demo files for practicing Git
