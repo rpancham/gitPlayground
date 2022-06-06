@@ -1,2 +1,2 @@
-Complete the task - Jun6
+Complete the task fast
 
